@@ -1,2 +1,4 @@
-com/example/paymentsystem/PaymentProcessorTest.class
+com/example/paymentsystem/PaymentControllerTest.class
 com/example/paymentsystem/PaymentServiceTest.class
+com/example/paymentsystem/PaymentProcessorTest.class
+com/example/paymentsystem/TestApplication.class
